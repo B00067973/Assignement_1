@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<quiz>
+<question>
+<questionText>What is one of the states a file/directory can be in when using the GIT version control?</questionText>
+<incorrect>Corrupted</incorrect>
+<correct>Committed</correct>
+<incorrect>Misplaced</incorrect>
+<incorrect>Sent</incorrect>
+</question>
+<question>
+<questionText>What is the line command used to track new files?</questionText>
+<incorrect>git track README</incorrect>
+<incorrect>git follow README</incorrect>
+<correct>git add README</correct>
+<incorrect>git look README</incorrect>
+</question>
+<question>
+<questionText>What is a functional requirement?</questionText>
+<incorrect>Performance</incorrect>
+<incorrect>Scalability</incorrect>
+<incorrect>Reliability</incorrect>
+<correct>Historical Data</correct>
+</question>
+<question>
+<questionText>What is a non-functional requirement?</questionText>
+<correct>Security</correct>
+<incorrect>Business roles</incorrect>
+<incorrect>Legal or Regulatory Requirements</incorrect>
+<incorrect>Certification Requirements</incorrect>
+</question>
+<question>
+<questionText>What is the name of the software used in order to make activity diagrams?</questionText>
+<incorrect>USL</incorrect>
+<incorrect>UMD</incorrect>
+<correct>UML</correct>
+<incorrect>UCS</incorrect>
+</question>
+<question>
+<questionText>What does a Sequence diagram represent?</questionText>
+<correct>Messages flowing from one object to another</correct>
+<incorrect>logic of conditional structures</incorrect>
+<incorrect>loops</incorrect>
+<incorrect>Concurrency</incorrect>
+</question>
+<question>
+<questionText>How are C++ Interfaces implemented?</questionText>
+<incorrect>Variable Decleration</incorrect>
+<incorrect>Functions</incorrect>
+<incorrect>Data abstraction</incorrect>
+<correct>Abstract classes</correct>
+</question>
+<question>
+<questionText>What is Use case analysis?</questionText>
+<incorrect>Activity diagrams for business workflow</incorrect>
+<correct>Mostly focused on writing text</correct>
+<incorrect>Sequence diagrams for reactive behaviour</incorrect>
+<incorrect>Creating class diagrams</incorrect>
+</question>
+<question>
+<questionText>What is a Symptom of a rotting design?</questionText>
+<correct>Fragility</correct>
+<incorrect>Carelessness</incorrect>
+<incorrect>Bad coding</incorrect>
+<incorrect>Badsmell</incorrect>
+</question>
+<question>
+<questionText>What is a good test case?</questionText>
+<incorrect>No error found</incorrect>
+<incorrect>Many errors found</incorrect>
+<correct>Undiscovered error found</correct>
+</question>
+<question>
+<questionText>Select one sample of White-box testing</questionText>
+<correct>Integration testing</correct>
+<incorrect>Acceptance testing</incorrect>
+<incorrect>Requirements Modelling</incorrect>
+<incorrect>System testing</incorrect>
+</question>
+<question>
+<questionText>Select one sample of Black-box testing.</questionText>
+<incorrect>Architectural design</incorrect>
+<incorrect>Component design</incorrect>
+<incorrect>Code generation</incorrect>
+<correct>Unit testing</correct>
+</question>
+<question>
+<questionText>What is process documentation?</questionText>
+<incorrect>engineer development</incorrect>
+<incorrect>engineer maintaining the system</incorrect>
+<correct>project standards</correct>
+<incorrect>product descritpion</incorrect>
+</question>
+<question>
+<questionText>What type of writing style should be used in documentation?</questionText>
+<correct>Use grammatically correct constructs and correct spelling</correct>
+<incorrect>Use long sentences</incorrect>
+<incorrect>Write in passive tenses</incorrect>
+<incorrect>Make long paragraphs</incorrect>
+</question>
+<question>
+<questionText>Which one of these is a quality goal for requirements?</questionText>
+<incorrect>Conflicted</incorrect>
+<correct>Readable</correct>
+<incorrect>Incomplete</incorrect>
+<incorrect>Unverifiable</incorrect>
+</question>
+<question>
+<questionText>stereotypically how do the developers see users?</questionText>
+<incorrect>don’t understand operational needs</incorrect>
+<incorrect>can’t translate clearly stated needs into a successful system</incorrect>
+<correct>can’t articulate what they want</correct>
+<incorrect>unable to respond quickly to legitimately changing needs</incorrect>
+</question>
+<question>
+<questionText>Stereotypically how do the users see the developers?</questionText>
+<incorrect>Don’t know what they want</incorrect>
+<incorrect>have too many needs that are politically motivated</incorrect>
+<incorrect>refuse to take responsibility for the system</incorrect>
+<correct>too much emphasis on technicalities</correct>
+</question>
+<question>
+<questionText>what is the name of the lecturer?</questionText>
+<incorrect>Paul Blart</incorrect>
+<correct>Paul Stacey</correct>
+<incorrect>Paul ++</incorrect>
+<incorrect>Paul Git</incorrect>
+</question>
+</quiz>
