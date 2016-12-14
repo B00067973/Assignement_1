@@ -1,4 +1,15 @@
 # depslib dependency file v1.0
-1481111704 source:g:\portablegit\assignement_1\software\log_in\main.cpp
+1481317514 source:g:\portablegit\assignement_1\software\log_in\main.cpp
 	<iostream>
+	<stdlib.h>
+
+1481572826 source:f:\portablegit\assignement_1\software\log_in\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1481572826 source:c:\users\kris\desktop\portablegit\assignement_1\software\log_in\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
 

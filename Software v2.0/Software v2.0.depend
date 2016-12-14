@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481630026 source:g:\portablegit\assignement_1\software\software v2.0\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
